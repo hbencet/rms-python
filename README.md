@@ -1,4 +1,6 @@
 # rms-python
+Review Monitoring System - Python Service
+
 This is a simple Python microservice that performs sentiment analysis on product reviews.
 
 It uses a multilingual BERT model from HuggingFace to classify each review as:
